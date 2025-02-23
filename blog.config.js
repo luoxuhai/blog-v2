@@ -1,6 +1,6 @@
 const BLOG = {
-  title: 'Xuhai Luo',
-  author: 'Xuhai Luo',
+  title: 'Luo Xuhai',
+  author: 'Luo Xuhai',
   email: 'darkce97@gmail.com',
   link: 'https://luoxuhai.com',
   description: "I'm a software engineer.",
